@@ -31,6 +31,10 @@ public class MemberControllerDocumentationTest {
     @Test
     public void getMemberTest() throws Exception {
         // TODO 여기에 MemberController의 getMember() 핸들러 메서드 API 스펙 정보를 포함하는 테스트 케이스를 작성 하세요.
+        //given
+
+        //when
+        //then
     }
 
     @Test
