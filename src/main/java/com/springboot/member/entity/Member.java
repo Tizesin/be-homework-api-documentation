@@ -3,6 +3,7 @@ package com.springboot.member.entity;
 import com.springboot.audit.Auditable;
 import com.springboot.order.entity.Order;
 import com.springboot.stamp.Stamp;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -12,6 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @NoArgsConstructor
+@AllArgsConstructor
 @Getter
 @Setter
 @Entity
